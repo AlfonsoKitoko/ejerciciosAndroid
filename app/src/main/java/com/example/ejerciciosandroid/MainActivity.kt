@@ -1,3 +1,11 @@
+/*La aplicación incluirá:
+	- Toast
+	- Button
+	- AlertDialog
+	- DatePickerDialog
+	- Text
+	- EditText
+ */
 package com.example.ejerciciosandroid
 
 import android.os.Bundle
